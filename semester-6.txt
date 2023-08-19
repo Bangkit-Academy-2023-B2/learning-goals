@@ -1,0 +1,6 @@
+Goals for this semester : 
+- PHP Basic 
+- PHP OOP
+- PHP MVC
+- Laravel 8
+- Rest API
