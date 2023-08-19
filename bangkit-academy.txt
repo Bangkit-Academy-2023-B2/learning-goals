@@ -6,3 +6,7 @@ Target passed class on Dicoding :
 - Belajar Dasar Pemrograman JavaScript
 - Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud
 - Menjadi Google Cloud Engineer
+
+Target passed class on Coursera :
+- The Bits and Bytes of Computer Networking
+- System Administration and IT Infrastructure Services	
