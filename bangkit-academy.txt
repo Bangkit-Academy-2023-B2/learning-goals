@@ -10,3 +10,13 @@ Target passed class on Dicoding :
 Target passed class on Coursera :
 - The Bits and Bytes of Computer Networking
 - System Administration and IT Infrastructure Services	
+
+Target passed class on GCSB :
+- Google Cloud Computing Foundations
+- Google Cloud Engineer Learning Path
+- Application Development with Cloud Run	
+- Hybrid Cloud Modernizing Applications with Anthos	
+- Serverless Cloud Run Development	
+- Deploy to Kubernetes in Google Cloud
+- Cloud SQL
+- Advanced ML: ML Infrastructure
