@@ -4,3 +4,4 @@ Goals for this semester :
 - JavaScript
 - ReactJS
 - Tailwind CSS
+- Bootstrap CSS
