@@ -1,6 +1,0 @@
-Goals for this semester : 
-- HTML
-- CSS
-- JavaScript
-- ReactJS
-- Tailwind CSS
